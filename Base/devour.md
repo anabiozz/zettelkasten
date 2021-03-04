@@ -1,0 +1,3 @@
+links: [[English words]]
+
+пожирать

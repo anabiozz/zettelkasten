@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "6c58db721bb99fd8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6d8a278004e04ed",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base/English words.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e1be60b309c7d664",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3ccb3b8e1bd9138",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "64ec7df158079cb2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f94af9a6804d5ac1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 217,
+    "collapsed": true
+  },
+  "right": {
+    "id": "809b2c0750b2543d",
+    "type": "split",
+    "children": [
+      {
+        "id": "6305fdf6ceb35a1c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "400df7d31b5da473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Base/English words.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "Base/English words.md",
+    "Base/occasion.md",
+    "Base/flatter.md",
+    "Base/implying.md",
+    "Base/deviate.md",
+    "Base/prohibition.md",
+    "Base/inquiry.md",
+    "Base/preference.md",
+    "Base/inevitable.md",
+    "Base/such.md"
+  ]
+}
